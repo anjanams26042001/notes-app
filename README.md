@@ -1,19 +1,7 @@
-# notes
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-
-Here’s a suggested, polished README structure that you can adapt for your **notes-app** repo:
-
----
 
 #  Notes App
 
-A simple note-taking application built with **\[Your Tech Stack]** that lets users create, view, edit, and delete notes with a clean and intuitive interface.
+A simple note-taking application built with Flutter that lets users create, view, edit, and delete notes with a clean and intuitive interface.
 
 ##  Table of Contents
 
